@@ -1,0 +1,11 @@
+<?php
+http_response_code(400);
+?>
+<!DOCTYPE html>
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<h1>400 - Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.</p>
+</body>
+</html>
