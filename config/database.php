@@ -2,7 +2,7 @@
 // Paramètres de connexion à la base de données
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'RdwanZati1995@');
+define('DB_PASS', '');
 define('DB_NAME', 'gestion_stock_ventes');
 
 // Établir la connexion à la base de données
